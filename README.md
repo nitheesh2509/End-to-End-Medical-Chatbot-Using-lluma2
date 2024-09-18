@@ -4,12 +4,11 @@ This project involves building a medical chatbot using lluma2. Below are the ste
 
 ## Steps to Run the Project
 
-1. Create a Conda Environment
-   Open your terminal and run the following command to create a new Conda environment:
-   ```bash
-   conda create -n med-chatbot python=3.8 -y
-   
-2. Activate Conda Environment
-Open your terminal and run the following command to create a new Conda environment:
-   ```bash
-   conda activate med-chatbot
+```bash
+conda create -n med-chatbot python=3.8 -y
+'''
+
+```bash
+conda activate med-chatbot
+'''
+
