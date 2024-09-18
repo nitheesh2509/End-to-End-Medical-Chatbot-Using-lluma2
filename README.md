@@ -4,6 +4,7 @@
 
 '''bash
 conda create -n med-chatbot python=3.8 -y
-
+'''
 '''bash
 conda activate med-chatbot
+'''
