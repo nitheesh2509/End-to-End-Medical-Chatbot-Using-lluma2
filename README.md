@@ -7,8 +7,6 @@ This project involves building a medical chatbot using lluma2. Below are the ste
 ```bash
 conda create -n med-chatbot python=3.8 -y
 '''
-
-```bash
+'''bash
 conda activate med-chatbot
 '''
-
